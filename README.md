@@ -27,4 +27,7 @@ Throughout the analysis, the project sought to answer several key questions, inc
 2. Data Folder: Contains the raw data provided by Maven Analytics for reference.
 3. SQL Queries: Includes SQL queries used in SSMS for further data verification and integrity checks.
 
+## :five: Screenshot
+![Screenshot 2023-06-19 205522](https://github.com/manash-jyoti/Pizza-Sales-Analysis/assets/90838725/5016dbf0-38cd-4875-84e2-c2e5399d6537)
+
 Feel free to explore the Power BI report and delve into the intriguing world of Maven Pizza's sales analysis🎇🎇.
