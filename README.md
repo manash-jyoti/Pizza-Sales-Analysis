@@ -1,3 +1,4 @@
+![Pizza-3007395](https://github.com/manash-jyoti/Pizza-Sales-Analysis/assets/90838725/aae55633-6c8a-4cee-8401-56a7ecbf0b6e)
 # Maven Pizza Analysis - Power BI Project🎊🍕
 
 Welcome to the Maven Pizza Analysis project! This repository contains a Power BI report that showcases an in-depth analysis of the annual sales figures of Plato's Pizza Mania, providing valuable insights into the business.
