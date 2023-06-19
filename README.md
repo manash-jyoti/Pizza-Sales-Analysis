@@ -4,7 +4,7 @@
 Welcome to the Maven Pizza Analysis project! This repository contains a Power BI report that showcases an in-depth analysis of the annual sales figures of Plato's Pizza Mania, providing valuable insights into the business.
 
 ## :one: Project Overview
-The objective of this project was to analyze the sales data provided by Maven Analytics and uncover patterns, trends, and key performance indicators (KPIs) to better understand the success of Plato's Pizza Mania. The data includes details such as order timestamps, pizza types, sizes, quantities, prices, and ingredients, which were meticulously analyzed to gain meaningful insights.
+The objective of this project was to analyze the sales data provided by Maven Analytics available in [Kaggle](https://www.kaggle.com/datasets/neethimohan/maven-pizza-challenge-dataset) and uncover patterns, trends, and key performance indicators (KPIs) to better understand the success of Plato's Pizza Mania. The data includes details such as order timestamps, pizza types, sizes, quantities, prices, and ingredients, which were meticulously analyzed to gain meaningful insights.
 
 ## :two: Tools and Techniques Used
 - Power BI: Leveraged the power of Power Query and DAX functions to transform and model the raw data into actionable insights.
